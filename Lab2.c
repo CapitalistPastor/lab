@@ -131,7 +131,7 @@ int main(){
     system("pause");
     return 0;
 }
-
+// how to I use students as return type?
 students* readData(FILE *in, int *noOfRecords, int *noofquiz){
 
     
